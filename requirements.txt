@@ -3,7 +3,7 @@ aiofiles
 aioshutil
 anytree
 apscheduler
-aria2p
+
 asyncio
 beautifulsoup4
 cinemagoer
@@ -31,12 +31,12 @@ pymongo
 pyrogram==2.0.66
 python-dotenv
 python-magic
-qbittorrent-api
+
 requests
-speedtest-cli
+
 telegraph
 tenacity
 tgcrypto
 uvloop
 xattr
-yt-dlp
+
